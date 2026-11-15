@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="384" viewBox="0 0 1280 384" role="img" aria-label="iNWEB Official — Privacy-first, open web technology">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a0e13"/>
+      <stop offset="1" stop-color="#0d1420"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0.12" cy="0" r="0.9">
+      <stop offset="0" stop-color="#4f8ff7" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#4f8ff7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0.88" cy="0.1" r="0.9">
+      <stop offset="0" stop-color="#7c5cff" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#7c5cff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.2" fill="#e9eef5" fill-opacity="0.07"/>
+    </pattern>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4f8ff7"/>
+      <stop offset="1" stop-color="#7c5cff"/>
+    </linearGradient>
+    <linearGradient id="accentV" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4f8ff7"/>
+      <stop offset="1" stop-color="#7c5cff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="384" fill="url(#bg)"/>
+  <rect width="1280" height="384" fill="url(#glow1)"/>
+  <rect width="1280" height="384" fill="url(#glow2)"/>
+  <rect width="1280" height="384" fill="url(#dots)"/>
+  <rect x="0" y="0" width="6" height="384" fill="url(#accentV)"/>
+  <rect x="0" y="378" width="1280" height="6" fill="url(#accent)"/>
+  <g font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif">
+    <rect x="64" y="58" width="216" height="30" rx="15" fill="#4f8ff7" fill-opacity="0.13" stroke="#4f8ff7" stroke-opacity="0.38"/>
+    <text x="172" y="78" text-anchor="middle" font-size="12" font-weight="700" letter-spacing="3" fill="#7ab2ff">GITHUB ORGANIZATION</text>
+    <text x="64" y="172" font-size="62" font-weight="800" letter-spacing="-1" fill="#e9eef5">iNWEB Official</text>
+    <text x="64" y="218" font-size="21" fill="#aebccd">Privacy-first, open web technology — crafted in Bangladesh, engineered for the world.</text>
+    <g font-size="15" fill="#c3cfdc">
+      <rect x="64" y="252" width="159" height="34" rx="17" fill="#1a2330" stroke="#2c3c4f"/>
+      <text x="143.5" y="274" text-anchor="middle">Chromium engine</text>
+      <rect x="235" y="252" width="118" height="34" rx="17" fill="#1a2330" stroke="#2c3c4f"/>
+      <text x="294" y="274" text-anchor="middle">Material 3</text>
+      <rect x="365" y="252" width="143" height="34" rx="17" fill="#1a2330" stroke="#2c3c4f"/>
+      <text x="436.5" y="274" text-anchor="middle">Privacy-first</text>
+      <rect x="520" y="252" width="85" height="34" rx="17" fill="#1a2330" stroke="#2c3c4f"/>
+      <text x="562.5" y="274" text-anchor="middle">Kotlin</text>
+      <rect x="617" y="252" width="93" height="34" rx="17" fill="#1a2330" stroke="#2c3c4f"/>
+      <text x="663.5" y="274" text-anchor="middle">Android</text>
+    </g>
+    <text x="1216" y="352" text-anchor="end" font-size="14" fill="#5f7186">github.com/iNWEB-Official</text>
+  </g>
+</svg>
